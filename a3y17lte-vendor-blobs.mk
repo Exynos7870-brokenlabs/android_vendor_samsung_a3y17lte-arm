@@ -62,7 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a3y17lte/proprietary/etc/firmware/utfbd32.bin:system/etc/firmware/utfbd32.bin \
     vendor/samsung/a3y17lte/proprietary/etc/firmware/wlan/grippower.info:system/etc/firmware/wlan/grippower.info \
     vendor/samsung/a3y17lte/proprietary/etc/firmware/wlan/qcom_cfg.ini:system/etc/firmware/wlan/qcom_cfg.ini \
-    vendor/samsung/a3y17lte/proprietary/etc/firmware/wlan/WCNSS_cfg.dat:system/etc/firmware/wlan/WCNSS_cfg.dat
+    vendor/samsung/a3y17lte/proprietary/etc/firmware/wlan/WCNSS_cfg.dat:system/etc/firmware/wlan/WCNSS_cfg.dat \
     $(LOCAL_PATH)lib/modules/qca_cld/qca_cld_wlan.ko:root/modules/qca_cld/qca_cld_wlan.ko
 
  #==/ Camera ==/#
